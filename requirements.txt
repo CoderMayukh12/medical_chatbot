@@ -1,8 +1,0 @@
-langchain
-langchain_community
-langchain_core
-langchain_huggingface
-streamlit
-torch==2.6.0+cu124 
-transformers
-
