@@ -1,9 +1,18 @@
-langchain
-langchain_community
-langchain_core
-langchain_huggingface
-streamlit
-torch
-transformers
-faiss-cpu
+# langchain
+# langchain_community
+# langchain_core
+# langchain_huggingface
+# streamlit
+# torch
+# transformers
+# faiss-cpu
 
+torch>=2.0.0
+transformers>=4.30.0
+langchain-core>=0.1.0
+langchain-community>=0.0.1
+langchain-huggingface>=0.0.2
+faiss-cpu>=1.7.4
+streamlit>=1.28.0
+sentence-transformers>=2.2.2
+accelerate>=0.21.0
